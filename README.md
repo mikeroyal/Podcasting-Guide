@@ -4,7 +4,7 @@
   Podcasting Guide
 </h1>
 
-#### A guide covering applications,tools, and techniques that will make you a better and more efficient Podcaster.
+#### A guide covering applications, tools, and techniques that will make you a better and more efficient Podcaster.
 
 ## Resources and Equipment
 
