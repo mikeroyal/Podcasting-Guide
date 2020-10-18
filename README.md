@@ -6,7 +6,11 @@
 
 #### A guide covering applications,tools, and techniques that will make you a better and more efficient Podcaster.
 
-# Tools and Equipment
+## Resources and Equipment
+
+[Online Podcasting Classes from Skillshare](https://www.skillshare.com/browse/podcasting)
+
+[Audacity Podcast Production Course: Audio Editing for Podcasters](https://www.thepodcasthost.com/academy/course-library/audacity-course/)
 
 [Best Podcast Microphones For Great Audio (All Budgets) by Ross Winn](https://www.podcastinsights.com/best-podcast-microphones/)
 
@@ -16,11 +20,26 @@
 
 [Open Broadcaster Software (OBS) streaming with Elgato Game Capture HD](https://help.elgato.com/hc/en-us/articles/360027953632-Open-Broadcaster-Software-OBS-streaming-with-Elgato-Game-Capture-HD)
 
+
+## Tools
+
+[Fireside](https://fireside.fm/) provides every podcast with a free SSL (https) certificate for both subdomains and your own custom domain name, ensuring your website and all of its content is delivered to your audience securely.
+
+[Anchor](https://anchor.fm/) is an all-in-one platform where you can create, distribute, and monetize your podcast from any device, for free.
+
+[Wavve](https://wavve.co/?tap_a=27018-52405f&tap_s=280972-4c8b7f) is a tool to create shareable audio clips for social media.
+
+[Open Broadcaster Software (OBS) streaming with Elgato Game Capture HD](https://help.elgato.com/hc/en-us/articles/360027953632-Open-Broadcaster-Software-OBS-streaming-with-Elgato-Game-Capture-HD)
+
+[Streamlabs](https://streamlabs.com/) is the most popular cloud-based streaming platform for Twitch(70% usage), YouTube, Mixer and Facebook. Easily grow your coomunity with Streamlabs Open Broadcast Software (OBS), alerts, 1000+ overlays, analytics, chatbot, tipping, merch and more. Available on Windows and MacOS.
+
 [OBS (Open Broadcaster Software)](https://obsproject.com/) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
 [Opencast](https://opencast.org/) is a flexible, scalable and reliable video capture, management, and distribution system for academic institutions. Opencast is built by a growing community of developers from leading universities and organizations worldwide. Also checkout [Opencast Studio](https://studio.opencast.org/).
 
-[NewPipe](https://newpipe.schabi.org/) is free and open source. Your advantages. Quick help when you have a problem (nobody's ever had one) Dozens of people bring NewPipe forward and translate it into 60+ languages. You can check the source code on GitHub and contribute to NewPipe. NewPipe is covered by the GPL 3.0 license. Get NewPipe from F-Droid and discover more FOSS apps.
+[audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) is a little GUI tool which creates an audio visualization video from an input audio. You can also give it a background image and set a title text.
+
+[Bitwig Studio](https://www.bitwig.com) is a digital audio workstation that has linear and non-linear workflows for sound design, recording, live performance, and more. Along with 90+ instruments, effects, and other creative tools. It is supported Windows, macOS, and Linux.
 
 [LBRY](https://lbry.com/) is a blockchain-based digital content protocol and community-controlled content wonderland containing a digital library with millions of pieces of content, such as videos, music, games.
 
@@ -31,6 +50,8 @@
 [UniversalSoundboard](https://github.com/dav-apps/UniversalSoundboard) is a customizable soundboard for your Windows 10 device. Add your sounds or music and sort them in categories. You can also add images to your favourite sounds.
 
 [CastersoundBoard](https://github.com/covarianttensor/CasterSoundboard) is an open source soundboard for hot-keying and playing back sounds for podcasting.
+
+[PipeWire](https://pipewire.org) is a server and user space API to deal with multimedia pipelines.It provides a low-latency, graph based processing engine on top of audio and video devices that can be used to support the use cases currently handled by both pulseaudio and JACK. PipeWire was designed with a powerful security model that makes interacting with audio and video devices from containerized applications easy. Nodes in the graph can be implemented as separate processes, communicating with sockets and exchanging multimedia content using fd passing.
 
 [REAPER](https://www.reaper.fm/) is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.REAPER supports a vast range of hardware, digital formats and plugins, and can be comprehensively extended, scripted and modified. 
 
