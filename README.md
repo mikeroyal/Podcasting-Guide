@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/92158316-8f3fc600-ede0-11ea-97d0-360b04cc1300.png">
+ <img src="https://user-images.githubusercontent.com/45159366/96496045-93436e00-11fd-11eb-9539-47a904393b4d.png">
   <br />
   Podcasting Guide
 </h1>
