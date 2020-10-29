@@ -30,7 +30,7 @@
 
 [Wavve](https://wavve.co/?tap_a=27018-52405f&tap_s=280972-4c8b7f) is a tool to create shareable audio clips for social media.
 
-[Amazon Interactive Video Service (Amazon IVS)](https://aws.amazon.com/ivs/) is a managed live streaming solution that is quick and easy to set up, and ideal for creating interactive video experiences. Send your live streams to Amazon IVS using streaming software and the service does everything you need to make low-latency(under 5 seonds) live video available to any viewer around the world, letting you focus on building interactive experiences alongside the live video.
+[Amazon Interactive Video Service (Amazon IVS)](https://aws.amazon.com/ivs/) is a managed live streaming solution that is quick and easy to set up, and ideal for creating interactive video experiences. Send your live streams to Amazon IVS using streaming software and the service does everything you need to make low-latency(under 5 seconds) live video available to any viewer around the world, letting you focus on building interactive experiences alongside the live video.
 
 [Streamlabs](https://streamlabs.com/) is the most popular cloud-based streaming platform for Twitch(70% usage), YouTube, Mixer and Facebook. Easily grow your coomunity with Streamlabs Open Broadcast Software (OBS), alerts, 1000+ overlays, analytics, chatbot, tipping, merch and more. Available on Windows and MacOS.
 
