@@ -6,7 +6,14 @@
 
 #### A guide covering applications, tools, and techniques that will make you a better and more efficient Podcaster.
 
-## Resources and Equipment
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279019-e6d7c900-bbdd-11eb-8486-13da5638cde0.png">
+  <br />
+</p>
+
+# Podcasting Learning Resources and Equipment
 
 [Online Podcasting Classes from Skillshare](https://www.skillshare.com/browse/podcasting)
 
@@ -22,7 +29,9 @@
 
 [What is Amazon Interactive Video Service?](https://docs.aws.amazon.com/ivs/latest/userguide/what-is.html)
 
-## Tools
+[KDR Video Capture Cards 4k, HDMI Video Capture Card USB 3.0 HD 1080P Capture Adapter Directly to Computer for Gaming, Streaming, Teaching, Video Conference, Live Broadcasting](https://www.amazon.com/gp/product/B08QCR5C5Z/)
+
+# Podcasting Tools
 
 [Fireside](https://fireside.fm/) provides every podcast with a free SSL (https) certificate for both subdomains and your own custom domain name, ensuring your website and all of its content is delivered to your audience securely.
 
@@ -63,3 +72,12 @@
 [LMMS](https://lmms.io/) is an open source digital audio workstation application program. When LMMS is pairedr with appropriate computer hardware, it allows music to be produced by arranging samples, synthesizing sounds, playing on a MIDI keyboard, and combining the features of trackers and sequencers. Developed by Paul Giblock and Tobias Junghans, this program stands for "Linux MultiMedia Studio" and supports handy plugins that enables it to work on different operating systems.
 
 [Audacity](https://www.audacityteam.org/) is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source and offered free of charge. Amazing support community.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Podcasting-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
