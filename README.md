@@ -47,7 +47,7 @@
 
 [Opencast](https://opencast.org/) is a flexible, scalable and reliable video capture, management, and distribution system for academic institutions. Opencast is built by a growing community of developers from leading universities and organizations worldwide. Also checkout [Opencast Studio](https://studio.opencast.org/).
 
-[audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) is a little GUI tool which creates an audio visualization video from an input audio. You can also give it a background image and set a title text.
+[Audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) is a little GUI tool which creates an audio visualization video from an input audio. You can also give it a background image and set a title text.
 
 [Bitwig Studio](https://www.bitwig.com) is a digital audio workstation that has linear and non-linear workflows for sound design, recording, live performance, and more. Along with 90+ instruments, effects, and other creative tools. It is supported Windows, macOS, and Linux.
 
